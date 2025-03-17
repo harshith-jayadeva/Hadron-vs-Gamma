@@ -1,0 +1,2 @@
+# Gamma vs Hadron Classifier
+Using data from the Cherenkow telescope, I was able to use machine learning models to classify between these 2 rays. Many of the original data enteries were corrupt and needed to have values filled in. Data cleaning and EDA (Exploratory Data Analysis) was performed to better understand the data. To better the accuracy of the model, I tuned 200+ parameters to improve the accuracy of the model to 99.9%+. 
